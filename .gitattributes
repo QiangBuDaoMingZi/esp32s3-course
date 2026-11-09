@@ -1,0 +1,18 @@
+* text=auto
+*.md text eol=lf
+*.json text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.cmake text eol=lf
+CMakeLists.txt text eol=lf
+*.sh text eol=lf
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.bin binary
+*.png binary
+*.jpg binary
+*.pdf binary
+*.zip binary
+
+# Preserve vendor initialization reference bytes.
+/docs/hardware/*.INI -text

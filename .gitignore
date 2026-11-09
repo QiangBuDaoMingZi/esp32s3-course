@@ -1,0 +1,26 @@
+# ESP-IDF 构建产物及可恢复依赖
+build/
+managed_components/
+sdkconfig
+sdkconfig.old
+
+# 本机环境与编辑器配置
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 凭据：示例配置可以保留
+.env
+.env.*
+!.env.example
+!.env.*.example
+secrets.h
+secrets.json
+
+# 下载暂存区
+.downloads/
