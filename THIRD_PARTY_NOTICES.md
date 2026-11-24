@@ -6,3 +6,7 @@
 
 <!-- UPDATE: third-party-inventory -->
 【待更新】新增第三方文件时，在本页登记对应来源、版本和许可；当前未收录的依赖不提前列出。
+
+## 开发板展示图片
+
+README 中的两张开发板图片由用户提供，原样收录于 docs/images/board-display.webp 与 docs/images/board-components.webp。权利归原权利人，不适用本仓库 MIT 或 CC BY 许可。
