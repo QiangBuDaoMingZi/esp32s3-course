@@ -8,11 +8,10 @@ ESP32-S3 零基础课程配套源码。仓库刚开始更新，以当前已发�
 🛒 课程配套开发板：[前往淘宝购买](https://item.taobao.com/item.htm?id=1098878125807&skuId=6156467341865)
 
 <!-- UPDATE: board-images -->
-![课程配套开发板外观与屏幕展示](docs/images/board-display.webp)
+
 
 ![课程配套开发板板载器件介绍](docs/images/board-components.webp)
 
-图片由用户提供，仅作开发板展示；屏幕界面与功能以所用例程为准，当前已发布内容见下表。图片不随源码采用 MIT 或 CC BY 许可。
 
 ## 当前内容
 
