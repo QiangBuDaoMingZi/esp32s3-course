@@ -4,6 +4,9 @@ ESP32-S3 零基础课程配套源码。仓库刚开始更新，以当前已发�
 
 [课程示例](examples/README.md) · [硬件资料](docs/README.md) · [MIT 许可证](LICENSE)
 
+<!-- UPDATE: board-purchase -->
+🛒 课程配套开发板：[前往淘宝购买](https://item.taobao.com/item.htm?id=1098878125807&skuId=6156467341865)
+
 ## 当前内容
 
 <!-- UPDATE: examples-status -->
@@ -16,8 +19,20 @@ ESP32-S3 零基础课程配套源码。仓库刚开始更新，以当前已发�
 
 ## 下载与使用
 
+<!-- UPDATE: repository-mirrors -->
+根据网络访问情况选择仓库：国内网络可使用 [Gitee 镜像](https://gitee.com/ZhuolunMaker/esp32s3-course)，海外网络可使用 [GitHub 仓库](https://github.com/QiangBuDaoMingZi/esp32s3-course)。
+
+**GitHub：**
+
 ```sh
 git clone https://github.com/QiangBuDaoMingZi/esp32s3-course.git
+cd esp32s3-course/examples/01_gpio_output
+```
+
+**国内网络：Gitee 镜像**
+
+```sh
+git clone https://gitee.com/ZhuolunMaker/esp32s3-course.git
 cd esp32s3-course/examples/01_gpio_output
 ```
 
